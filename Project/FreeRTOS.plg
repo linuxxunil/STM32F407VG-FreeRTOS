@@ -1,0 +1,634 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\001_Work\002_¬ã¨s©Ò\006_STM32_Discovery\STM32F407\Project\FreeRTOS.uvproj
+Project File Date:  10/17/2013
+
+<h2>Output:</h2>
+compiling main.c...
+..\Source\main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling stm32f4xx_it.c...
+compiling system_stm32f4xx.c...
+assembling startup_stm32f4xx.s...
+compiling croutine.c...
+compiling list.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling port.c...
+compiling heap_1.c...
+compiling misc.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(115): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(135): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(177): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(196): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c(220): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_adc.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(233): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(338): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(395): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(454): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(483): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(524): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(588): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(610): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(712): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(831): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(846): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(875): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(900): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(929): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(958): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(981): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1051): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1075): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1102): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1190): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1254): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1288): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1326): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1380): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1394): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1422): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1448): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1478): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1585): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1622): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1656): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1680): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c(1719): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_can.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(165): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(197): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(333): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(466): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(491): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(521): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(576): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(649): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(701): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(748): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(797): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(821): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(875): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(953): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(979): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1040): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1065): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1085): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1290): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1332): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1431): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1491): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c(1594): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(234): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(373): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(615): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(740): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(769): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c(805): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_cryp_aes.c...
+compiling stm32f4xx_cryp_des.c...
+compiling stm32f4xx_cryp_tdes.c...
+compiling stm32f4xx_dac.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(198): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(256): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(284): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(308): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(339): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(370): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(395): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(423): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(457): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(500): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(548): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(581): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(615): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(641): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c(678): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dbgmcu.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dbgmcu.c(81): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dbgmcu.c(120): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dbgmcu.c(149): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dcmi.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(144): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(222): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(260): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(298): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(321): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(376): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(416): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(460): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c(485): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_dma.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(191): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(316): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(473): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(509): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(545): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(629): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(644): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(722): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(752): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(794): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(821): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(930): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(964): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(993): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(1058): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(1103): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(1159): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c(1239): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_exti.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c(124): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c(193): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c(224): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c(246): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c(262): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c(285): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_flash.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(169): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(184): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(206): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(227): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(347): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(413): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(464): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(502): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(540): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(578): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(694): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(729): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(762): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(792): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(906): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(938): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c(967): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_fsmc.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(119): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(146): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(270): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(342): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(375): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(466): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(506): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(627): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(704): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(751): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(815): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(862): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(900): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c(948): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_gpio.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(123): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(187): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(260): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(304): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(326): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(343): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(365): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(383): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(402): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(422): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(445): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(459): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c(535): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_hash.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(194): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(294): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(463): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(558): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(590): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(628): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(647): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c(678): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_hash_md5.c...
+compiling stm32f4xx_hash_sha1.c...
+compiling stm32f4xx_i2c.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(135): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(182): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(311): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(335): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(359): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(387): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(414): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(439): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(464): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(488): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(514): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(538): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(564): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(602): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(630): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(654): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(692): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(736): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(767): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(791): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(813): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(846): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(870): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1010): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1035): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1098): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1145): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1200): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1275): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1311): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c(1369): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_iwdg.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c(132): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c(152): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c(165): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c(234): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_pwr.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(138): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(186): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(209): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(243): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(301): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(321): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(363): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(505): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(610): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c(635): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rcc.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(240): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(296): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(331): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(356): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(396): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(439): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(462): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(488): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(503): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(521): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(548): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(586): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(692): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(745): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(777): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(808): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(985): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1015): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1032): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1049): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1088): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1120): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1147): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1197): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1237): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1276): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1305): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1329): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1376): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1412): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1458): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1490): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1517): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1567): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1607): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1652): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1692): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1754): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c(1785): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rng.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c(112): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c(271): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c(298): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c(330): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c(347): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c(376): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_rtc.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(450): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(516): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(655): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(701): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(759): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(873): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(932): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1033): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1093): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1234): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1290): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1382): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1470): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1497): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1534): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1607): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1673): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1729): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1770): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1814): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1846): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1887): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(1960): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2005): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2081): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2107): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2138): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2172): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2195): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2215): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2238): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2281): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2302): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2340): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2357): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2376): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2417): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2533): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2582): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2615): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2638): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c(2677): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_sdio.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(277): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(330): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(346): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(397): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(463): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(501): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(615): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(629): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(645): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(659): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(673): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(719): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(733): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(765): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(823): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(873): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(908): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(949): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c(983): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_spi.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(221): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(262): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(330): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(513): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(538): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(565): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(585): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(611): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(635): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(666): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(705): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(778): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(794): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(883): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(905): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(924): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(948): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(985): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(1096): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(1139): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(1179): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(1207): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c(1260): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_syscfg.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c(105): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c(124): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c(142): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c(160): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_tim.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(197): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(287): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(357): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(382): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(406): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(421): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(435): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(449): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(465): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(494): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(519): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(546): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(569): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(589): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(670): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(751): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(832): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(912): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1012): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1055): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1071): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1086): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1101): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1121): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1150): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1178): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1207): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1235): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1265): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1294): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1323): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1352): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1383): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1413): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1443): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1473): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1503): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1532): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1561): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1590): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1616): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1644): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1671): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1698): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1725): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1752): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1783): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1813): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1893): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(1971): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2025): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2040): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2054): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2068): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2088): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2113): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2137): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2161): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2214): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2258): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2283): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2308): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2365): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2403): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2437): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2478): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2508): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2547): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2584): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2611): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2637): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2676): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2697): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2728): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2770): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2815): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2884): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2925): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2949): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(2972): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(3005): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(3065): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(3112): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c(3163): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_usart.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(181): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(235): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(364): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(411): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(437): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(458): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(484): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(541): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(557): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(608): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(628): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(655): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(724): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(742): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(766): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(819): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(904): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(923): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(948): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1019): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1037): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1083): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1213): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1276): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1324): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1360): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c(1433): warning:  #223-D: function "assert_param" declared implicitly
+compiling stm32f4xx_wwdg.c...
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_wwdg.c(154): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_wwdg.c(174): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_wwdg.c(207): warning:  #223-D: function "assert_param" declared implicitly
+..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_wwdg.c(238): warning:  #223-D: function "assert_param" declared implicitly
+linking...
+..\Output\FreeRTOS.axf: Error: L6218E: Undefined symbol assert_param (referred from misc.o).
+Target not created
+compiling main.c...
+..\Source\main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling stm32f4xx_it.c...
+compiling system_stm32f4xx.c...
+compiling croutine.c...
+compiling list.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling port.c...
+compiling heap_1.c...
+compiling misc.c...
+compiling stm32f4xx_adc.c...
+compiling stm32f4xx_can.c...
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+compiling stm32f4xx_cryp_aes.c...
+compiling stm32f4xx_cryp_des.c...
+compiling stm32f4xx_cryp_tdes.c...
+compiling stm32f4xx_dac.c...
+compiling stm32f4xx_dbgmcu.c...
+compiling stm32f4xx_dcmi.c...
+compiling stm32f4xx_dma.c...
+compiling stm32f4xx_exti.c...
+compiling stm32f4xx_flash.c...
+compiling stm32f4xx_fsmc.c...
+compiling stm32f4xx_gpio.c...
+compiling stm32f4xx_hash.c...
+compiling stm32f4xx_hash_md5.c...
+compiling stm32f4xx_hash_sha1.c...
+compiling stm32f4xx_i2c.c...
+compiling stm32f4xx_iwdg.c...
+compiling stm32f4xx_pwr.c...
+compiling stm32f4xx_rcc.c...
+compiling stm32f4xx_rng.c...
+compiling stm32f4xx_rtc.c...
+compiling stm32f4xx_sdio.c...
+compiling stm32f4xx_spi.c...
+compiling stm32f4xx_syscfg.c...
+compiling stm32f4xx_tim.c...
+compiling stm32f4xx_usart.c...
+compiling stm32f4xx_wwdg.c...
+linking...
+Program Size: Code=10552 RO-data=424 RW-data=164 ZI-data=78132  
+"..\Output\FreeRTOS.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output\\FreeRTOS.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+compiling main.c...
+..\Source\main.c(63): warning:  #167-D: argument of type "void (*)()" is incompatible with parameter of type "pdTASK_CODE"
+..\Source\main.c(67): warning:  #167-D: argument of type "void (*)()" is incompatible with parameter of type "pdTASK_CODE"
+..\Source\main.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=10600 RO-data=424 RW-data=180 ZI-data=78132  
+"..\Output\FreeRTOS.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+..\Source\main.c(63): warning:  #167-D: argument of type "void (*)()" is incompatible with parameter of type "pdTASK_CODE"
+..\Source\main.c(67): warning:  #167-D: argument of type "void (*)()" is incompatible with parameter of type "pdTASK_CODE"
+compiling stm32f4xx_it.c...
+compiling system_stm32f4xx.c...
+assembling startup_stm32f4xx.s...
+compiling croutine.c...
+compiling list.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling port.c...
+compiling heap_1.c...
+compiling misc.c...
+compiling stm32f4xx_adc.c...
+compiling stm32f4xx_can.c...
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+compiling stm32f4xx_cryp_aes.c...
+compiling stm32f4xx_cryp_des.c...
+compiling stm32f4xx_cryp_tdes.c...
+compiling stm32f4xx_dac.c...
+compiling stm32f4xx_dbgmcu.c...
+compiling stm32f4xx_dcmi.c...
+compiling stm32f4xx_dma.c...
+compiling stm32f4xx_exti.c...
+compiling stm32f4xx_flash.c...
+compiling stm32f4xx_fsmc.c...
+compiling stm32f4xx_gpio.c...
+compiling stm32f4xx_hash.c...
+compiling stm32f4xx_hash_md5.c...
+compiling stm32f4xx_hash_sha1.c...
+compiling stm32f4xx_i2c.c...
+compiling stm32f4xx_iwdg.c...
+compiling stm32f4xx_pwr.c...
+compiling stm32f4xx_rcc.c...
+compiling stm32f4xx_rng.c...
+compiling stm32f4xx_rtc.c...
+compiling stm32f4xx_sdio.c...
+compiling stm32f4xx_spi.c...
+compiling stm32f4xx_syscfg.c...
+compiling stm32f4xx_tim.c...
+compiling stm32f4xx_usart.c...
+compiling stm32f4xx_wwdg.c...
+linking...
+Program Size: Code=10600 RO-data=424 RW-data=180 ZI-data=78132  
+"..\Output\FreeRTOS.axf" - 0 Error(s), 2 Warning(s).
+Load "..\\Output\\FreeRTOS.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
