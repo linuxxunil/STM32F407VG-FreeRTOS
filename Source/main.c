@@ -11,16 +11,12 @@ uint64_t u64IdleTicks=0; // Value of u64IdleTicksCnt is copied once per sec.
 uint64_t u64IdleTicksCnt=0; // Counts when the OS has no task to execute.
 uint16_t u16PWM1=0;
 
-#define mainTIME_TASK_PRIORITY ( tskIDLE_PRIORITY + 4 )
-#define mainTIME2_TASK_PRIORITY ( tskIDLE_PRIORITY + 3 )
-#define mainMEMS_TASK_PRIORITY ( tskIDLE_PRIORITY + 2 )
-#define mainDEBUG_TASK_PRIORITY ( tskIDLE_PRIORITY + 1 )
-#define mainINTEGER_TASK_PRIORITY ( tskIDLE_PRIORITY )
+#define mainTIME_TASK_PRIORITY ( tskIDLE_PRIORITY  )
+#define mainTIME2_TASK_PRIORITY ( tskIDLE_PRIORITY + 1 )
 
 xTaskHandle hTimeTask;
 xTaskHandle hTimeTask2;
-xTaskHandle hMemsTask;
-xTaskHandle hDebugTask;
+
 
 GPIO_InitTypeDef  GPIO_InitStructure;
 
@@ -64,11 +60,11 @@ int main(void)
 		GPIOInit();
 		GPIO_SetBits(GPIOD, GPIO_Pin_12);
     
-    xTaskCreate( myTask1, (signed char *) "TIME", configMINIMAL_STACK_SIZE,
+    xTaskCreate( myTask1, (signed char *) "Task1", configMINIMAL_STACK_SIZE,
     NULL, mainTIME_TASK_PRIORITY, &hTimeTask );
 
-    xTaskCreate( myTask2, (signed char *) "TIME", configMINIMAL_STACK_SIZE,
-    NULL, mainTIME_TASK_PRIORITY, &hTimeTask );
+    xTaskCreate( myTask2, (signed char *) "Task2", configMINIMAL_STACK_SIZE,
+    NULL, mainTIME2_TASK_PRIORITY, &hTimeTask2 );
 
 	
     vTaskStartScheduler();
